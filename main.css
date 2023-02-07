@@ -1,0 +1,25 @@
+body{
+  background-color: aliceblue;
+}
+button {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  height: 3rem;
+  font-size: 2rem;
+}
+#start {
+  width: 300px;
+}
+div.player {
+  width: 100%;
+  clear: left;
+}
+div.float {
+  float:left;
+}
+div.debuffs > img {
+  width: 48px;
+}
+div.clearLeft {
+  clear: left;
+}
